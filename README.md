@@ -101,6 +101,8 @@ The School Supply Management System created focuses on several aspects of the Su
 
 IV.PROGRAM/SYSTEM INSTRUCTIONS
 V.
+
+
 When you run the code, it will show a GUI with options for Student Management, Inventory Management, and Distribution Management.
 
 • Student Management: Here, you can input the names and grades of students. You can also add more students by clicking the “Add Student” button.
